@@ -1,6 +1,6 @@
-const CACHE = 'bear-pacer-v8';
+const CACHE = 'bear-pacer-v9';
 const FILES = ['./', 'index.html', 'app.js', 'manifest.webmanifest',
-  'icons/icon-192-v8.png', 'icons/icon-512-v8.png', 'icons/apple-touch-icon-v8.png'];
+  'icon-192-v8.png', 'icon-512-v8.png', 'apple-touch-icon-v8.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)));
