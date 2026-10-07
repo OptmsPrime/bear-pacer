@@ -294,7 +294,7 @@ h2{font-family:'Inter Tight';font-size:13px;font-weight:700;letter-spacing:.09em
 .sheet .linkish,.modal .linkish{display:block;width:100%;text-align:center}
 
 @media (prefers-reduced-motion:reduce){.bubbles span,.shake{animation:none}.liquid,.txt{transition:none}}
-`;var bd=nn(Lr());(0,Dd.createRoot)(document.getElementById("root")).render((0,bd.jsx)(Ia,{}));"serviceWorker"in navigator&&window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));})();
+`;var bd=nn(Lr());(0,Dd.createRoot)(document.getElementById("root")).render((0,bd.jsx)(Ia,{}));})();
 /*! Bundled license information:
 
 react/cjs/react.production.min.js:
