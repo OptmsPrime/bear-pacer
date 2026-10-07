@@ -1,5 +1,5 @@
 // Byt v1 till v2, v3 osv varje gång du laddar upp en ny version av appen.
-const CACHE = 'bear-pacer-v1';
+const CACHE = 'bear-pacer-v2';
 const FILES = ['./', 'index.html', 'app.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
