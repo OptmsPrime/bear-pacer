@@ -1,4 +1,4 @@
-const CACHE = 'bear-pacer-v10';
+const CACHE = 'bear-pacer-v11';
 const FILES = ['./', 'index.html', 'app.js', 'manifest.webmanifest',
   'icon-192-v8.png', 'icon-512-v8.png', 'apple-touch-icon-v8.png'];
 
